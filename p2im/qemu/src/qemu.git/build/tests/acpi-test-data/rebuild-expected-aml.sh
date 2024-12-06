@@ -1,0 +1,1 @@
+/home/alessandro/Peripherals_modelling/p2im/qemu/src/qemu.git/tests/acpi-test-data/rebuild-expected-aml.sh

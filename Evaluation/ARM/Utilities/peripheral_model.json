@@ -1,0 +1,1599 @@
+{
+    "model": {
+        "0x40000000": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40000400": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40000800": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40005400": {
+            "DR_bytes_num": 2,
+            "events": {
+                "0:0x1": {
+                    "0x800197c": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            6
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "0:0x101": {
+                    "0x8001a0c": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    }
+                },
+                "0:0x301": {
+                    "0x8001440": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    10
+                                ],
+                                0
+                            ],
+                            [
+                                [
+                                    10
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x800148e": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80014f6": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    7
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001556": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x800157c": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    },
+                    "0x800170a": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    6
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001866": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            6
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80018dc": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    2
+                                ],
+                                0
+                            ],
+                            [
+                                [
+                                    2
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x800197c": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            6
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001a0c": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    },
+                    "0x8001b42": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    2
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    2
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "0:0x501": {
+                    "0x800148e": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80014f6": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    7
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001616": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001640": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    },
+                    "0x80016a8": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "0:0x701": {
+                    "0x800148e": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    1
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001498": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    10
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    10
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80014be": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1,
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 2,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80014f6": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    7
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001616": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001640": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    },
+                    "0x80016a8": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x8001a82": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    -1
+                                ],
+                                0,
+                                [
+                                    -1
+                                ],
+                                0
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5,
+                            6
+                        ],
+                        "sr_num": 2
+                    },
+                    "0x8001adc": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    2
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    2
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            5
+                        ],
+                        "sr_num": 1
+                    }
+                }
+            },
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 1,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "sr_locked": 1,
+                    "type": 2,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "sr_locked": 0,
+                    "type": 2,
+                    "write": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40010800": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40010c00": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40011000": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 1,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40012c00": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40013800": {
+            "DR_bytes_num": 2,
+            "events": {
+                "3:0x200c,4:0x0,5:0x0": {
+                    "0x80029ac": {
+                        "never_satisfy": [],
+                        "other": [],
+                        "satisfy": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    5
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "3:0x210c,4:0x0,5:0x1": {
+                    "0x80027d6": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    6
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x800286c": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    7
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80029ac": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    2
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    3
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    5
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "3:0x212c,4:0x0,5:0x1": {
+                    "0x80027d6": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    6
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x800286c": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    7
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    },
+                    "0x80029ac": {
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    0
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    1
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    2
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    3
+                                ],
+                                1
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    5
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    6
+                                ],
+                                1
+                            ],
+                            [
+                                [
+                                    7
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    }
+                }
+            },
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "sr_locked": 0,
+                    "type": 2,
+                    "write": 0
+                },
+                {
+                    "dr_locked": 1,
+                    "read": 1,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40021000": {
+            "DR_bytes_num": 2,
+            "events": {
+                "0:0x1000081,1:0x380000,6:0x1,7:0x0": {
+                    "0x8001fa2": {
+                        "CR_SR_r_idx": 1,
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    25
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    25
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            0
+                        ],
+                        "sr_num": 1
+                    }
+                },
+                "0:0x1000081,1:0x380002,6:0x1,7:0x0": {
+                    "0x80021be": {
+                        "CR_SR_r_idx": 1,
+                        "never_satisfy": [],
+                        "other": [
+                            [
+                                [
+                                    3
+                                ],
+                                0
+                            ]
+                        ],
+                        "satisfy": [
+                            [
+                                [
+                                    3
+                                ],
+                                1
+                            ]
+                        ],
+                        "set_bits": 1,
+                        "sr_idx": [
+                            1
+                        ],
+                        "sr_num": 1
+                    }
+                }
+            },
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 1,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "sr_locked": 1,
+                    "type": 4,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 1,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "sr_locked": 1,
+                    "type": 4,
+                    "write": 1
+                },
+                {
+                    "dr_locked": 0,
+                    "read": 0,
+                    "type": 3,
+                    "write": 1
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "type": 0
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                },
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                }
+            ]
+        },
+        "0x40022000": {
+            "DR_bytes_num": 2,
+            "events": {},
+            "reg_size": 4,
+            "regs": [
+                {
+                    "hang_r_idx_in_bbl": 0,
+                    "read": 1,
+                    "result_hang_in_while": 0,
+                    "type": 1,
+                    "write": 1
+                }
+            ]
+        }
+    },
+    "interrupts": [
+        {
+            "excp_num": 15,
+            "enabled": 1,
+            "result_hang": 0
+        },
+        {
+            "excp_num": 53,
+            "enabled": 1,
+            "result_hang": 0
+        }
+    ],
+    "access_to_unmodeled_peri": {
+        "replay_bbl_cnt": 16824,
+        "aup_func": "I2C_IsAcknowledgeFailed",
+        "peri_base_addr": 1073763328,
+        "reg_idx": 5,
+        "CR_SR_r_idx": 0,
+        "aup_reason": 65
+    }
+}

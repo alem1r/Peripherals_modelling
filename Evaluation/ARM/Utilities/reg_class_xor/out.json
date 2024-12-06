@@ -1,0 +1,56 @@
+{
+    "TRA": 69,
+    "CP": 48,
+    "ACC": 69.56521739130434,
+    "TRR": 40,
+    "TRRC": 40,
+    "TRRW": 0,
+    "ACCRR": 100.0,
+    "MISSREGS": [],
+    "MISSCATS": [],
+    "MISCAT_READ": [
+        [
+            "Base address",
+            "Reg address",
+            "Reg name",
+            "Reg cat",
+            "Model Cat",
+            "Read",
+            "Write",
+            "Correct cat",
+            "Comments GT"
+        ]
+    ],
+    "NUMPER": 11,
+    "NUMSRSITES": 23,
+    "SRSITES": [
+        "0x800148e",
+        "0x80016a8",
+        "0x800197c",
+        "0x8001498",
+        "0x80021be",
+        "0x80029ac",
+        "0x8001556",
+        "0x8001440",
+        "0x8001b42",
+        "0x800286c",
+        "0x8001a82",
+        "0x80014f6",
+        "0x800170a",
+        "0x8001a0c",
+        "0x80027d6",
+        "0x800157c",
+        "0x80018dc",
+        "0x8001640",
+        "0x80014be",
+        "0x8001adc",
+        "0x8001866",
+        "0x8001616",
+        "0x8001fa2"
+    ],
+    "INTERRUPTS": [
+        53,
+        15
+    ],
+    "NUMINTERRUPTS": 2
+}

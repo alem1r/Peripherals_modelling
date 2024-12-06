@@ -1,0 +1,19 @@
+cmd to launch this script: /home/alessandro/Peripherals_modelling/p2im/model_instantiation/me.py -c /home/alessandro/Peripherals_modelling/p2im/fuzzing/Drone/1/fuzz.cfg --run-num 0 --print-to-file
+
+args after processing: Namespace(afl_file=None, config='/home/alessandro/Peripherals_modelling/p2im/fuzzing/Drone/1/fuzz.cfg', eval=False, gt=None, model_if=None, print_to_file=True, run_from_fs=False, run_num='0')
+
+configurations after processing: Namespace(board='NUCLEO-F103RB', img='/home/alessandro/Peripherals_modelling/p2im/fuzzing/Drone/1/drone_main_1.1.elf', log_f='/home/alessandro/Peripherals_modelling/p2im/fuzzing/Drone/1/me.log', mcu='STM32F103RB', objdump='/home/alessandro/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-objdump', peri_addr_range=512, qemu_bin='/home/alessandro/Peripherals_modelling/p2im/qemu/precompiled_bin/qemu-system-gnuarmeclipse', qemu_log='unimp,guest_errors,int', retry_num=3)
+
+[94mdepth 1, stage: SR_R_ID[0m
+cmd: /home/alessandro/Peripherals_modelling/p2im/qemu/precompiled_bin/qemu-system-gnuarmeclipse -verbose -verbose -d unimp,guest_errors,int -nographic -board NUCLEO-F103RB -mcu STM32F103RB -image /home/alessandro/Peripherals_modelling/p2im/fuzzing/Drone/1/drone_main_1.1.elf -pm-stage 1 -trace trace-depth:1,stage:1.0 -reg-acc reg_acc-depth:1,stage:1.0 -model-output model-depth:1,stage:1.0.json
+ret_val: 0x7f
+[91mret_val == 0x7f, re-run it![0m
+ret_val: 0x7f
+[91mret_val == 0x7f, re-run it![0m
+ret_val: 0x7f
+[91mret_val == 0x7f, re-run it![0m
+[92m
+exit_callback is invoked[0m
+
+[92mExecution time(seconds): [0m
+0.1134190559387207
